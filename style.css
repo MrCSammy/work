@@ -1,13 +1,14 @@
-#ancor{
-    float:right;
+#ancor {
+  float: right;
 }
-#leftie{
-    justify-content: flex-end;
+#leftie {
+  justify-content: flex-end;
 }
-#img{
-    height: 90vh;
+#img {
+  height: 90vh;
 }
-.LoginBody{
-    background: url(./img/Reaper_login.jpg); 
-    background-repeat:none; width:100%;
+.LoginBody {
+  background: url(./img/Reaper_login.jpg);
+  background-repeat: none;
+  width: 100%;
 }
