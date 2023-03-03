@@ -8,7 +8,7 @@
   height: 90vh;
 }
 .LoginBody {
-  background: url(./img/Reaper_login.jpg);
-  background-repeat: none;
-  width: 100%;
+    background-image: url(./img/Reaper_login.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
