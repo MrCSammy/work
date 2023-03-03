@@ -1,4 +1,4 @@
-#btn{
+#ancor{
     float:right;
 }
 #leftie{
@@ -6,4 +6,8 @@
 }
 #img{
     height: 90vh;
+}
+.LoginBody{
+    background: url(./img/Reaper_login.jpg); 
+    background-repeat:none; width:100%;
 }
