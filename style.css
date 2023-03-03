@@ -13,7 +13,27 @@
     background-size: 100%;
     overflow: hidden;
 }
+homeBody{
+  overflow: hidden;
+}
 #jusy{
   justify-content: flex-end;
   color:rgb(255, 255, 255);
+}
+@media only screen and (max-width: 750px) {
+  #jusy {
+    background-image: url(./img/Reaper_HompageSlide.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+  .LoginBody{
+    overflow-y: visible;
+  }
+  .homeBody{
+    overflow: hidden;
+  }
+  .sounda{
+    color: white;
+  }
 }
